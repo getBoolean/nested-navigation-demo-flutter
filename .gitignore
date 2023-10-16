@@ -31,6 +31,7 @@
 /dev/docs/pubspec.yaml
 /packages/flutter/coverage/
 version
+.fvm/flutter_sdk
 
 # Flutter/Dart/Pub related
 **/doc/api/

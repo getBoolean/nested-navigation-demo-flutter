@@ -1,5 +1,7 @@
 # Flutter BottomNavigationBar with Multiple Navigators
 
+**THIS IS FROM A CODE WITH ANDREA ARTICLE**
+
 This is the source code for my article:
 
 - [Flutter Bottom Navigation Bar with Multiple Navigators: A Case Study](https://codewithandrea.com/articles/2018-07-07-multiple-navigators-bottom-navigation-bar/)
